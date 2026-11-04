@@ -424,7 +424,7 @@ var APP_DATA = {
   initialViewParameters: { yaw: 0, pitch: 0, fov: 1.4 },
   linkHotspots: [
     {
-      yaw: 0,
+      yaw: 30,
       pitch: 0,
       rotation: 0,
       target: 'ecf-espaces-placeholder',
